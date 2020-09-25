@@ -9,8 +9,11 @@ Visualizations were created using matplotlib to show various climate relationshi
 Some of the relationships that were plotted include:
 
 Temperature (F) vs. Latitude
+
 Humidity (%) vs. Latitude
+
 Cloudiness (%) vs. Latitude
+
 Wind Speed (mph) vs. Latitude
 
 
